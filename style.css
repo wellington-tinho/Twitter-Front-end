@@ -148,7 +148,7 @@ div.bar .content ul li.active strong{
     color:  #3BB9E3;
 }
 div.bar .content .actions {
-    display: flex
+    display: flex 
 }
 div.bar .content .actions button{
     height: 34px;
@@ -165,4 +165,51 @@ div.bar .content .actions button{
     border-radius: 16px;
 
     margin-right: 20px;
+}
+
+div.wrapper-content{
+    display: flex;
+}
+
+div.wrapper-content aside.profile{
+    width: 260px;
+}
+div.wrapper-content aside.profile img.avatar{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 5px solid #FFF;
+    margin-top: -130px;
+}
+div.wrapper-content aside.profile h1{
+    font-size: 21px;
+    color: #1f2226;
+    margin-top: 10px;
+}
+div.wrapper-content aside.profile span{
+    font-size: 14px;
+    color: #545b64;
+} 
+div.wrapper-content aside.profile p{
+    font-size: 14px;
+    color: #545b64;
+    color: #1f2226;
+    margin-top: 15px;
+} 
+div.wrapper-content aside.profile ul{
+    list-style: none;
+    margin-top: 20px;
+} 
+div.wrapper-content aside.profile li{
+    font-size: 14px;
+    color: #74777a;;
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+} 
+div.wrapper-content aside.profile li img:first-child{
+    margin-top: 0;
+}
+div.wrapper-content aside.profile li img{
+    margin-right: 10px ;
 }
