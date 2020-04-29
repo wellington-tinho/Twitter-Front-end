@@ -258,3 +258,12 @@ div.wrapper-content aside.profile .images ul li{
     flex-grow: 1;
     margin:  0 5px 5px 0;
 }
+
+div.wapper-content .timeline{
+    flex: 1;
+}
+
+div.wrapper-content aside.widgets{
+    width: 290px;
+
+}
