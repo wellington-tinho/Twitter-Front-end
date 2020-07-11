@@ -1,6 +1,6 @@
 ## Interface do twitter usando Flexbox
 
-Este projeto que visa clonar a interface do Twitter para melhorar as habilidades de CSS e as novas tecnologias.
+Este projeto que visa clonar a interface antiga do layout web do Twitter para melhorar as habilidades de CSS e as novas tecnologias.
 
   
 ## Objetivo:
