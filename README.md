@@ -18,7 +18,7 @@ Neste desafio, foi praticado conhecimentos em:
 
 ## Resultado final
 
-Para ver o resultado final [clique aqui](https://wrtinho.github.io/Twitter-Front-end/public/index.html)
+Para ver o resultado final [clique aqui](https://wrtinho.github.io/Twitter-Front-end/)
 
 
 fonte:
