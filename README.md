@@ -1,6 +1,6 @@
 ## Interface do twitter usando Flexbox
 
-Este projeto que visa clonar o Twitter Front-end para melhorar as habilidades de CSS e as novas tecnologias.
+Este projeto que visa clonar a interface do Twitter para melhorar as habilidades de CSS e as novas tecnologias.
 
   
 ## Objetivo:
@@ -18,7 +18,7 @@ Neste desafio, foi praticado conhecimentos em:
 
 ## Resultado final
 
-Para ver o resultado final clique no link ao lado: https://wrtinho.github.io/Twitter-Front-end/public/index.html
+Para ver o resultado final [clique aqui](https://wrtinho.github.io/Twitter-Front-end/public/index.html)
 
 
 fonte:
